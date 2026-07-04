@@ -40,6 +40,7 @@ async function search() {
     const data = await response.json();
     if (!response.ok) throw new Error(data.error || "查詢失敗");
     currentResult = data;
+    queueUserForIndex(userId);
     statusEl.textContent = `完成：發文 ${data.posts.length}/${data.totals?.articles ?? "?"}，留言 ${data.replies.length}/${data.totals?.replies ?? "?"}，來源 IP ${data.ips.length}，同 IP 帳號線索 ${data.sharedIpLinks.length}。`;
     render();
   } catch (error) {
@@ -48,6 +49,14 @@ async function search() {
     render();
   } finally {
     button.disabled = false;
+  }
+}
+
+async function queueUserForIndex(userId) {
+  try {
+    await fetch(`/api/queue/${encodeURIComponent(userId)}`, { method: "POST" });
+  } catch {
+    // Queueing is best-effort; search results should not fail because queueing failed.
   }
 }
 
@@ -68,6 +77,15 @@ function render() {
 }
 
 function renderPosts() {
+  if (currentResult.sourceIpProvider === "own-index" && currentResult.posts.length === 0 && currentResult.replies.length === 0) {
+    contentEl.innerHTML = `
+      <div class="warning">
+        目前使用自建索引快速結果，只顯示來源 IP 分析。推發文紀錄需要另外做背景載入，或使用本機完整掃描模式。
+      </div>
+    `;
+    return;
+  }
+
   const posts = currentResult.posts.slice(0, postDisplayLimit);
   const replies = currentResult.replies.slice(0, postDisplayLimit);
 

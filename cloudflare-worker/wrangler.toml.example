@@ -1,0 +1,11 @@
+name = "ptt-ip-index-worker"
+main = "src/worker.js"
+compatibility_date = "2026-07-04"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ptt_ip_index"
+database_id = "replace-with-your-d1-database-id"
+
+[vars]
+QUEUE_TOKEN = "replace-with-random-secret"

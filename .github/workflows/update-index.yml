@@ -21,6 +21,11 @@ jobs:
 
       - run: npm test
 
+      - run: npm run queue:import
+        env:
+          PTT_INDEX_QUEUE_URL: ${{ secrets.PTT_INDEX_QUEUE_URL }}
+          PTT_INDEX_QUEUE_TOKEN: ${{ secrets.PTT_INDEX_QUEUE_TOKEN }}
+
       - run: npm run index:users
         env:
           PTT_INDEX_BATCH_SIZE: "2"

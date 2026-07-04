@@ -1,0 +1,13 @@
+{
+  "name": "ptt-ip-index-worker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "d1:migrate": "wrangler d1 execute ptt_ip_index --file=./schema.sql"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

@@ -1,12 +1,14 @@
 import http from "node:http";
-import { readFile } from "node:fs/promises";
-import { extname, join, normalize } from "node:path";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { dirname, extname, join, normalize } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = fileURLToPath(new URL(".", import.meta.url));
 const publicDir = join(root, "public");
 const indexPath = join(root, "..", "data", "ip-index.json");
 const remoteIndexUrl = "https://raw.githubusercontent.com/SkillGodAk/ptt-ip-index/master/data/ip-index.json";
+const pendingUsersPath = join(root, "..", "data", "pending-users.json");
+const queueUrl = process.env.PTT_INDEX_QUEUE_URL;
 const port = Number(process.env.PORT || 5179);
 
 const mimeTypes = {
@@ -22,6 +24,25 @@ function sendJson(res, status, body) {
     "cache-control": "no-store",
   });
   res.end(JSON.stringify(body));
+}
+
+function normalizeUserId(value) {
+  const userId = String(value || "").trim().toLowerCase();
+  if (!/^[a-z0-9_-]{1,32}$/.test(userId)) return null;
+  return userId;
+}
+
+async function readJson(path, fallback) {
+  try {
+    return JSON.parse(await readFile(path, "utf8"));
+  } catch {
+    return fallback;
+  }
+}
+
+async function writeJson(path, value) {
+  await mkdir(dirname(path), { recursive: true });
+  await writeFile(path, `${JSON.stringify(value, null, 2)}\n`, "utf8");
 }
 
 function decodeHtml(value) {
@@ -310,6 +331,24 @@ async function handleUserSearch(req, res, url) {
 
   const userUrl = `https://www.pttweb.cc/user/${encodeURIComponent(userId)}`;
   const localIndex = await readLocalIndex();
+  const indexedIps = summarizeIndexedIps(userId, localIndex);
+  if (indexedIps && url.searchParams.get("fast") !== "0") {
+    const indexedLinks = indexedIps.flatMap((ip) => ip.otherUsers);
+    sendJson(res, 200, {
+      userId,
+      mode: "indexed",
+      totals: { articles: null, replies: null },
+      fetchedAt: new Date().toISOString(),
+      posts: [],
+      replies: [],
+      ips: indexedIps,
+      sharedIpLinks: indexedLinks,
+      sourceIpProvider: "own-index",
+      note: "Using this repository's own generated index.",
+    });
+    return;
+  }
+
   const userHtml = await fetchText(userUrl);
   const totals = parseUserTotals(userHtml);
   const isAll = limitParam === "all";
@@ -366,7 +405,6 @@ async function handleUserSearch(req, res, url) {
     candidateIds,
     isAll,
   });
-  const indexedIps = summarizeIndexedIps(userId, localIndex);
   const indexedLinks = indexedIps?.flatMap((ip) => ip.otherUsers) || [];
   sendJson(res, 200, {
     userId,
@@ -382,6 +420,29 @@ async function handleUserSearch(req, res, url) {
       ? "Using this repository's own generated index."
       : "Local scan only. Add this user to data/seed-users.json and let GitHub Actions build the index.",
   });
+}
+
+async function handleQueueUser(req, res, url) {
+  const userId = normalizeUserId(decodeURIComponent(url.pathname.replace("/api/queue/", "")));
+  if (!userId) {
+    sendJson(res, 400, { error: "invalid user id" });
+    return;
+  }
+
+  if (queueUrl) {
+    const response = await fetch(`${queueUrl.replace(/\/$/, "")}/queue`, {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ userId }),
+    });
+    sendJson(res, response.ok ? 200 : response.status, await response.json().catch(() => ({ ok: false })));
+    return;
+  }
+
+  const pendingUsers = await readJson(pendingUsersPath, []);
+  const nextUsers = [...new Set([...pendingUsers, userId])].sort();
+  await writeJson(pendingUsersPath, nextUsers);
+  sendJson(res, 200, { ok: true, userId, localFallback: true });
 }
 
 async function serveStatic(req, res, url) {
@@ -409,6 +470,10 @@ const server = http.createServer(async (req, res) => {
   try {
     if (req.method === "GET" && url.pathname.startsWith("/api/user/")) {
       await handleUserSearch(req, res, url);
+      return;
+    }
+    if (req.method === "POST" && url.pathname.startsWith("/api/queue/")) {
+      await handleQueueUser(req, res, url);
       return;
     }
     if (req.method === "GET") {

@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "test": "node --test",
+    "queue:import": "node scripts/import-queue-users.mjs",
     "index:users": "node scripts/index-users.mjs",
     "index:demo": "node scripts/add-demo-records.mjs",
     "serve": "node web-prototype/server.js"
