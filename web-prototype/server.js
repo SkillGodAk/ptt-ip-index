@@ -6,6 +6,7 @@ import { fileURLToPath } from "node:url";
 const root = fileURLToPath(new URL(".", import.meta.url));
 const publicDir = join(root, "public");
 const indexPath = join(root, "..", "data", "ip-index.json");
+const remoteIndexUrl = "https://raw.githubusercontent.com/SkillGodAk/ptt-ip-index/master/data/ip-index.json";
 const port = Number(process.env.PORT || 5179);
 
 const mimeTypes = {
@@ -209,7 +210,15 @@ async function readLocalIndex() {
   try {
     return JSON.parse(await readFile(indexPath, "utf8"));
   } catch {
-    return null;
+    try {
+      const response = await fetch(remoteIndexUrl, {
+        headers: { "user-agent": "Mozilla/5.0 PTT-IP-Local/0.2" },
+      });
+      if (!response.ok) return null;
+      return response.json();
+    } catch {
+      return null;
+    }
   }
 }
 

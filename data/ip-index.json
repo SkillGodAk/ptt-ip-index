@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T01:01:25.271Z",
+  "generatedAt": "2026-07-04T01:05:50.701Z",
   "records": [
     {
       "userId": "a22663564",
@@ -333,6 +333,42 @@
       "dateText": "06/05 22:40",
       "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1780670142.A.457",
       "title": "[公告] 本板菜單文 禁推“微星部份主板及電源”"
+    },
+    {
+      "userId": "arelies",
+      "ip": "114.39.44.144",
+      "type": "post",
+      "board": "demo",
+      "dateText": "2026/07/04",
+      "url": "https://www.pttweb.cc/user/arelies",
+      "title": "demo indexed source ip"
+    },
+    {
+      "userId": "godblessgogp",
+      "ip": "114.39.44.144",
+      "type": "reply",
+      "board": "demo",
+      "dateText": "2026/07/04",
+      "url": "https://www.pttweb.cc/user/godblessgogp",
+      "title": "demo shared source ip"
+    },
+    {
+      "userId": "arelies",
+      "ip": "36.238.37.70",
+      "type": "post",
+      "board": "demo",
+      "dateText": "2026/07/04",
+      "url": "https://www.pttweb.cc/user/arelies",
+      "title": "demo indexed source ip"
+    },
+    {
+      "userId": "godblessgogp",
+      "ip": "36.238.37.70",
+      "type": "reply",
+      "board": "demo",
+      "dateText": "2026/07/04",
+      "url": "https://www.pttweb.cc/user/godblessgogp",
+      "title": "demo shared source ip"
     }
   ],
   "byIp": {
@@ -812,6 +848,78 @@
           ]
         }
       ]
+    },
+    "114.39.44.144": {
+      "ip": "114.39.44.144",
+      "evidenceCount": 2,
+      "users": [
+        {
+          "userId": "arelies",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "114.39.44.144",
+              "type": "post",
+              "board": "demo",
+              "dateText": "2026/07/04",
+              "url": "https://www.pttweb.cc/user/arelies",
+              "title": "demo indexed source ip"
+            }
+          ]
+        },
+        {
+          "userId": "godblessgogp",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "godblessgogp",
+              "ip": "114.39.44.144",
+              "type": "reply",
+              "board": "demo",
+              "dateText": "2026/07/04",
+              "url": "https://www.pttweb.cc/user/godblessgogp",
+              "title": "demo shared source ip"
+            }
+          ]
+        }
+      ]
+    },
+    "36.238.37.70": {
+      "ip": "36.238.37.70",
+      "evidenceCount": 2,
+      "users": [
+        {
+          "userId": "arelies",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "36.238.37.70",
+              "type": "post",
+              "board": "demo",
+              "dateText": "2026/07/04",
+              "url": "https://www.pttweb.cc/user/arelies",
+              "title": "demo indexed source ip"
+            }
+          ]
+        },
+        {
+          "userId": "godblessgogp",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "godblessgogp",
+              "ip": "36.238.37.70",
+              "type": "reply",
+              "board": "demo",
+              "dateText": "2026/07/04",
+              "url": "https://www.pttweb.cc/user/godblessgogp",
+              "title": "demo shared source ip"
+            }
+          ]
+        }
+      ]
     }
   },
   "byUser": {
@@ -1009,7 +1117,7 @@
     },
     "arelies": {
       "userId": "arelies",
-      "evidenceCount": 17,
+      "evidenceCount": 19,
       "ips": [
         {
           "ip": "162.120.248.81",
@@ -1092,6 +1200,21 @@
               "dateText": "06/06 17:31",
               "url": "https://www.pttweb.cc/bbs/biker/M.1780736738.A.B33",
               "title": "Re: [心得] 徵板友至BoardCourt陳述意見"
+            }
+          ]
+        },
+        {
+          "ip": "114.39.44.144",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "114.39.44.144",
+              "type": "post",
+              "board": "demo",
+              "dateText": "2026/07/04",
+              "url": "https://www.pttweb.cc/user/arelies",
+              "title": "demo indexed source ip"
             }
           ]
         },
@@ -1216,6 +1339,21 @@
           ]
         },
         {
+          "ip": "36.238.37.70",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "36.238.37.70",
+              "type": "post",
+              "board": "demo",
+              "dateText": "2026/07/04",
+              "url": "https://www.pttweb.cc/user/arelies",
+              "title": "demo indexed source ip"
+            }
+          ]
+        },
+        {
           "ip": "61.222.240.52",
           "evidenceCount": 1,
           "evidence": [
@@ -1227,6 +1365,42 @@
               "dateText": "06/15 11:12",
               "url": "https://www.pttweb.cc/bbs/BoardCourt/M.1781460395.A.680",
               "title": "Re: [公告] L0001、L0002案受推薦人陳述意見"
+            }
+          ]
+        }
+      ]
+    },
+    "godblessgogp": {
+      "userId": "godblessgogp",
+      "evidenceCount": 2,
+      "ips": [
+        {
+          "ip": "114.39.44.144",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "godblessgogp",
+              "ip": "114.39.44.144",
+              "type": "reply",
+              "board": "demo",
+              "dateText": "2026/07/04",
+              "url": "https://www.pttweb.cc/user/godblessgogp",
+              "title": "demo shared source ip"
+            }
+          ]
+        },
+        {
+          "ip": "36.238.37.70",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "godblessgogp",
+              "ip": "36.238.37.70",
+              "type": "reply",
+              "board": "demo",
+              "dateText": "2026/07/04",
+              "url": "https://www.pttweb.cc/user/godblessgogp",
+              "title": "demo shared source ip"
             }
           ]
         }
