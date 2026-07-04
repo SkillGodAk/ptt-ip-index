@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T01:10:46.472Z",
+  "generatedAt": "2026-07-04T09:02:25.081Z",
   "records": [
     {
       "userId": "a22663564",
@@ -369,16 +369,70 @@
       "dateText": "2026/07/04",
       "url": "https://www.pttweb.cc/user/godblessgogp",
       "title": "demo shared source ip"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/06/30 14:17",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1782800246.A.4B1",
+      "title": "[問卦] 100元便當看起來還可以啊"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/03 19:37",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783078569.A.DE8",
+      "title": "[問卦] 儒哥vs蔡阿嘎"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/03 18:30",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783074396.A.9AA",
+      "title": "[問卦] 台女說請不起旭集的就別找她說話了"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/03 16:06",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783065955.A.0E2",
+      "title": "[新聞] 快新聞／台灣真的能壓制中共！外媒證實「"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/03 15:35",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783063647.A.D60",
+      "title": "[新聞] 愛莉莎莎搭機「行李全被擋」！凌晨控地勤"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/03 15:30",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783063571.A.952",
+      "title": "[新聞] 苯駢芘致癌油流入加工鏈 林淑芬怒轟食藥"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 20,
+      "evidenceCount": 26,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 20,
+          "evidenceCount": 26,
           "evidence": [
             {
               "userId": "a22663564",
@@ -925,11 +979,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 20,
+      "evidenceCount": 26,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 20,
+          "evidenceCount": 26,
           "evidence": [
             {
               "userId": "a22663564",
