@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T04:30:53.961Z",
+  "generatedAt": "2026-07-05T09:23:42.747Z",
   "records": [
     {
       "userId": "a22663564",
@@ -504,16 +504,25 @@
       "dateText": "07/03 20:31",
       "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783081871.A.28A",
       "title": "[新聞] 準強颱巴威來襲！歐美模式不排除「通過台"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "HardwareSale",
+      "dateText": "07/04 14:39",
+      "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783146586.A.521",
+      "title": "[賣/全國/郵寄] 漫步者 edifier S2000 mkIII"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 32,
+      "evidenceCount": 33,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 32,
+          "evidenceCount": 33,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1123,11 +1132,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 32,
+      "evidenceCount": 33,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 32,
+          "evidenceCount": 33,
           "evidence": [
             {
               "userId": "a22663564",
