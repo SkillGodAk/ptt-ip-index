@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T09:23:42.747Z",
+  "generatedAt": "2026-07-05T14:10:37.382Z",
   "records": [
     {
       "userId": "a22663564",
@@ -513,16 +513,61 @@
       "dateText": "07/04 14:39",
       "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783146586.A.521",
       "title": "[賣/全國/郵寄] 漫步者 edifier S2000 mkIII"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/01 07:32",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1782862352.A.02A",
+      "title": "[問卦] 撇除政治，中國是旅遊的好地方吧"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/04 15:41",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783150533.A.050",
+      "title": "[問卦] 寵物展成人展同時間是要玩我啊"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/04 15:23",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783149788.A.CFA",
+      "title": "佐助怎麼發現才是木葉自己的敵人"
+    },
+    {
+      "userId": "arelies",
+      "ip": "136.23.50.125",
+      "type": "post",
+      "board": "biker",
+      "dateText": "2026/06/29 01:53",
+      "url": "https://www.pttweb.cc/bbs/biker/M.1782669214.A.9A0",
+      "title": "[公告] 解除水桶處分通知"
+    },
+    {
+      "userId": "arelies",
+      "ip": "136.23.50.107",
+      "type": "reply",
+      "board": "PC_Shopping",
+      "dateText": "06/26 19:11",
+      "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782470594.A.371",
+      "title": "Re: [閒聊] 喜傑獅告300壯士 ->目前確定撤告"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 33,
+      "evidenceCount": 36,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 33,
+          "evidenceCount": 36,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1067,11 +1112,11 @@
     },
     "136.23.50.107": {
       "ip": "136.23.50.107",
-      "evidenceCount": 1,
+      "evidenceCount": 2,
       "users": [
         {
           "userId": "arelies",
-          "evidenceCount": 1,
+          "evidenceCount": 2,
           "evidence": [
             {
               "userId": "arelies",
@@ -1079,6 +1124,15 @@
               "type": "post",
               "board": "PC_Shopping",
               "dateText": "2026/06/26 18:43",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782470594.A.371",
+              "title": "Re: [閒聊] 喜傑獅告300壯士 ->目前確定撤告"
+            },
+            {
+              "userId": "arelies",
+              "ip": "136.23.50.107",
+              "type": "reply",
+              "board": "PC_Shopping",
+              "dateText": "06/26 19:11",
               "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782470594.A.371",
               "title": "Re: [閒聊] 喜傑獅告300壯士 ->目前確定撤告"
             }
@@ -1127,16 +1181,37 @@
           ]
         }
       ]
+    },
+    "136.23.50.125": {
+      "ip": "136.23.50.125",
+      "evidenceCount": 1,
+      "users": [
+        {
+          "userId": "arelies",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "136.23.50.125",
+              "type": "post",
+              "board": "biker",
+              "dateText": "2026/06/29 01:53",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782669214.A.9A0",
+              "title": "[公告] 解除水桶處分通知"
+            }
+          ]
+        }
+      ]
     }
   },
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 33,
+      "evidenceCount": 36,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 33,
+          "evidenceCount": 36,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1324,7 +1399,7 @@
     },
     "arelies": {
       "userId": "arelies",
-      "evidenceCount": 22,
+      "evidenceCount": 24,
       "ips": [
         {
           "ip": "162.120.248.81",
@@ -1387,6 +1462,30 @@
           ]
         },
         {
+          "ip": "136.23.50.107",
+          "evidenceCount": 2,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "136.23.50.107",
+              "type": "post",
+              "board": "PC_Shopping",
+              "dateText": "2026/06/26 18:43",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782470594.A.371",
+              "title": "Re: [閒聊] 喜傑獅告300壯士 ->目前確定撤告"
+            },
+            {
+              "userId": "arelies",
+              "ip": "136.23.50.107",
+              "type": "reply",
+              "board": "PC_Shopping",
+              "dateText": "06/26 19:11",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782470594.A.371",
+              "title": "Re: [閒聊] 喜傑獅告300壯士 ->目前確定撤告"
+            }
+          ]
+        },
+        {
           "ip": "162.120.248.126",
           "evidenceCount": 2,
           "evidence": [
@@ -1441,21 +1540,6 @@
           ]
         },
         {
-          "ip": "136.23.50.107",
-          "evidenceCount": 1,
-          "evidence": [
-            {
-              "userId": "arelies",
-              "ip": "136.23.50.107",
-              "type": "post",
-              "board": "PC_Shopping",
-              "dateText": "2026/06/26 18:43",
-              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782470594.A.371",
-              "title": "Re: [閒聊] 喜傑獅告300壯士 ->目前確定撤告"
-            }
-          ]
-        },
-        {
           "ip": "136.23.50.112",
           "evidenceCount": 1,
           "evidence": [
@@ -1482,6 +1566,21 @@
               "dateText": "06/19 17:32",
               "url": "https://www.pttweb.cc/bbs/BoardCourt/M.1781837438.A.3D3",
               "title": "Re: [公告] L0001、L0002案受推薦人陳述意見"
+            }
+          ]
+        },
+        {
+          "ip": "136.23.50.125",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "136.23.50.125",
+              "type": "post",
+              "board": "biker",
+              "dateText": "2026/06/29 01:53",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782669214.A.9A0",
+              "title": "[公告] 解除水桶處分通知"
             }
           ]
         },
