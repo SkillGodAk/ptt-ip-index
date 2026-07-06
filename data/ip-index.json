@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T11:04:36.209Z",
+  "generatedAt": "2026-07-06T15:55:32.768Z",
   "records": [
     {
       "userId": "a22663564",
@@ -738,16 +738,70 @@
       "dateText": "06/29 21:52",
       "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782717951.A.C74",
       "title": "[請益] 3070去世了升級請益"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/02 14:48",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1782974905.A.334",
+      "title": "[問卦] 機器人訂製明星臉會不會侵犯肖像權"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 11:30",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783308560.A.453",
+      "title": "[問卦] 你老師勒怎麼看line好友有沒有訂閱line"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 10:46",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783305788.A.14D",
+      "title": "[問卦] 台女偉大時刻到來!各位要多學習（圖"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 10:39",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783305355.A.14E",
+      "title": "Re: [新聞] 快訊／賴清德回應毒油問題「完全沒妥協"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 10:33",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783305087.A.BC1",
+      "title": "[新聞] 台74千萬級車禍！TOYOTA切車道撞毀1200萬"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 10:22",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783304435.A.84C",
+      "title": "[新聞] 川普：共產主義就像癌症 必須迅速切除"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 51,
+      "evidenceCount": 57,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 51,
+          "evidenceCount": 57,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1456,11 +1510,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 51,
+      "evidenceCount": 57,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 51,
+          "evidenceCount": 57,
           "evidence": [
             {
               "userId": "a22663564",
