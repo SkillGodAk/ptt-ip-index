@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T04:40:22.913Z",
+  "generatedAt": "2026-07-06T11:04:36.209Z",
   "records": [
     {
       "userId": "a22663564",
@@ -684,16 +684,70 @@
       "dateText": "06/29 21:49",
       "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782558402.A.DAD",
       "title": "[開箱] 簡單開箱7800X3D+X870E大升級"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/02 06:20",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1782944412.A.138",
+      "title": "[問卦] 1300噸毒油 罰300萬 怎麼輸"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 10:16",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783304031.A.C6A",
+      "title": "[新聞] 快訊／賴清德回應毒油問題「完全沒妥協"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 10:06",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783303416.A.223",
+      "title": "[問卦] 朋友好像想騙我的顯示卡"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 09:44",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783302218.A.516",
+      "title": "[新聞] 致癌油竄全台！沈伯洋要蔣萬安負責"
+    },
+    {
+      "userId": "arelies",
+      "ip": "162.120.248.122",
+      "type": "post",
+      "board": "biker",
+      "dateText": "2026/07/01 15:35",
+      "url": "https://www.pttweb.cc/bbs/biker/M.1782891325.A.A8D",
+      "title": "[公告] 解除水桶處分通知"
+    },
+    {
+      "userId": "arelies",
+      "ip": "136.23.50.77",
+      "type": "reply",
+      "board": "PC_Shopping",
+      "dateText": "06/29 21:52",
+      "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782717951.A.C74",
+      "title": "[請益] 3070去世了升級請益"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 47,
+      "evidenceCount": 51,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 47,
+          "evidenceCount": 51,
           "evidence": [
             {
               "userId": "a22663564",
@@ -902,11 +956,11 @@
     },
     "162.120.248.122": {
       "ip": "162.120.248.122",
-      "evidenceCount": 1,
+      "evidenceCount": 2,
       "users": [
         {
           "userId": "arelies",
-          "evidenceCount": 1,
+          "evidenceCount": 2,
           "evidence": [
             {
               "userId": "arelies",
@@ -916,6 +970,15 @@
               "dateText": "2026/06/24 01:31",
               "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782235890.A.145",
               "title": "[公告] freeunixer 水桶六十日"
+            },
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.122",
+              "type": "post",
+              "board": "biker",
+              "dateText": "2026/07/01 15:35",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782891325.A.A8D",
+              "title": "[公告] 解除水桶處分通知"
             }
           ]
         }
@@ -1361,11 +1424,11 @@
     },
     "136.23.50.77": {
       "ip": "136.23.50.77",
-      "evidenceCount": 1,
+      "evidenceCount": 2,
       "users": [
         {
           "userId": "arelies",
-          "evidenceCount": 1,
+          "evidenceCount": 2,
           "evidence": [
             {
               "userId": "arelies",
@@ -1375,6 +1438,15 @@
               "dateText": "06/29 21:49",
               "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782558402.A.DAD",
               "title": "[開箱] 簡單開箱7800X3D+X870E大升級"
+            },
+            {
+              "userId": "arelies",
+              "ip": "136.23.50.77",
+              "type": "reply",
+              "board": "PC_Shopping",
+              "dateText": "06/29 21:52",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782717951.A.C74",
+              "title": "[請益] 3070去世了升級請益"
             }
           ]
         }
@@ -1384,11 +1456,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 47,
+      "evidenceCount": 51,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 47,
+          "evidenceCount": 51,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1576,7 +1648,7 @@
     },
     "arelies": {
       "userId": "arelies",
-      "evidenceCount": 27,
+      "evidenceCount": 29,
       "ips": [
         {
           "ip": "162.120.248.81",
@@ -1687,6 +1759,54 @@
           ]
         },
         {
+          "ip": "136.23.50.77",
+          "evidenceCount": 2,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "136.23.50.77",
+              "type": "reply",
+              "board": "PC_Shopping",
+              "dateText": "06/29 21:49",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782558402.A.DAD",
+              "title": "[開箱] 簡單開箱7800X3D+X870E大升級"
+            },
+            {
+              "userId": "arelies",
+              "ip": "136.23.50.77",
+              "type": "reply",
+              "board": "PC_Shopping",
+              "dateText": "06/29 21:52",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782717951.A.C74",
+              "title": "[請益] 3070去世了升級請益"
+            }
+          ]
+        },
+        {
+          "ip": "162.120.248.122",
+          "evidenceCount": 2,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.122",
+              "type": "post",
+              "board": "PC_Shopping",
+              "dateText": "2026/06/24 01:31",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782235890.A.145",
+              "title": "[公告] freeunixer 水桶六十日"
+            },
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.122",
+              "type": "post",
+              "board": "biker",
+              "dateText": "2026/07/01 15:35",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782891325.A.A8D",
+              "title": "[公告] 解除水桶處分通知"
+            }
+          ]
+        },
+        {
           "ip": "162.120.248.126",
           "evidenceCount": 2,
           "evidence": [
@@ -1771,21 +1891,6 @@
           ]
         },
         {
-          "ip": "136.23.50.77",
-          "evidenceCount": 1,
-          "evidence": [
-            {
-              "userId": "arelies",
-              "ip": "136.23.50.77",
-              "type": "reply",
-              "board": "PC_Shopping",
-              "dateText": "06/29 21:49",
-              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782558402.A.DAD",
-              "title": "[開箱] 簡單開箱7800X3D+X870E大升級"
-            }
-          ]
-        },
-        {
           "ip": "136.23.50.97",
           "evidenceCount": 1,
           "evidence": [
@@ -1812,21 +1917,6 @@
               "dateText": "2026/06/30 16:29",
               "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782808145.A.5DE",
               "title": "Re: [心得] 原價屋5800X3D超賣"
-            }
-          ]
-        },
-        {
-          "ip": "162.120.248.122",
-          "evidenceCount": 1,
-          "evidence": [
-            {
-              "userId": "arelies",
-              "ip": "162.120.248.122",
-              "type": "post",
-              "board": "PC_Shopping",
-              "dateText": "2026/06/24 01:31",
-              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782235890.A.145",
-              "title": "[公告] freeunixer 水桶六十日"
             }
           ]
         },
