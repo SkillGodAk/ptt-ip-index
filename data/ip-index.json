@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T15:55:32.768Z",
+  "generatedAt": "2026-07-06T20:15:13.447Z",
   "records": [
     {
       "userId": "a22663564",
@@ -792,6 +792,24 @@
       "dateText": "07/06 10:22",
       "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783304435.A.84C",
       "title": "[新聞] 川普：共產主義就像癌症 必須迅速切除"
+    },
+    {
+      "userId": "arelies",
+      "ip": "162.120.248.120",
+      "type": "reply",
+      "board": "biker",
+      "dateText": "07/02 21:56",
+      "url": "https://www.pttweb.cc/bbs/biker/M.1782889302.A.623",
+      "title": "Re: [閒聊] 怎麼看K1特仕版125／150同價位？"
+    },
+    {
+      "userId": "arelies",
+      "ip": "162.120.248.120",
+      "type": "reply",
+      "board": "biker",
+      "dateText": "07/02 21:42",
+      "url": "https://www.pttweb.cc/bbs/biker/M.1782891325.A.A8D",
+      "title": "[公告] 解除水桶處分通知"
     }
   ],
   "byIp": {
@@ -1505,6 +1523,36 @@
           ]
         }
       ]
+    },
+    "162.120.248.120": {
+      "ip": "162.120.248.120",
+      "evidenceCount": 2,
+      "users": [
+        {
+          "userId": "arelies",
+          "evidenceCount": 2,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.120",
+              "type": "reply",
+              "board": "biker",
+              "dateText": "07/02 21:56",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782889302.A.623",
+              "title": "Re: [閒聊] 怎麼看K1特仕版125／150同價位？"
+            },
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.120",
+              "type": "reply",
+              "board": "biker",
+              "dateText": "07/02 21:42",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782891325.A.A8D",
+              "title": "[公告] 解除水桶處分通知"
+            }
+          ]
+        }
+      ]
     }
   },
   "byUser": {
@@ -1702,7 +1750,7 @@
     },
     "arelies": {
       "userId": "arelies",
-      "evidenceCount": 29,
+      "evidenceCount": 31,
       "ips": [
         {
           "ip": "162.120.248.81",
@@ -1833,6 +1881,30 @@
               "dateText": "06/29 21:52",
               "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782717951.A.C74",
               "title": "[請益] 3070去世了升級請益"
+            }
+          ]
+        },
+        {
+          "ip": "162.120.248.120",
+          "evidenceCount": 2,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.120",
+              "type": "reply",
+              "board": "biker",
+              "dateText": "07/02 21:56",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782889302.A.623",
+              "title": "Re: [閒聊] 怎麼看K1特仕版125／150同價位？"
+            },
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.120",
+              "type": "reply",
+              "board": "biker",
+              "dateText": "07/02 21:42",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782891325.A.A8D",
+              "title": "[公告] 解除水桶處分通知"
             }
           ]
         },
