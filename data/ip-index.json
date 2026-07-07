@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T20:15:13.447Z",
+  "generatedAt": "2026-07-07T04:17:38.594Z",
   "records": [
     {
       "userId": "a22663564",
@@ -810,16 +810,115 @@
       "dateText": "07/02 21:42",
       "url": "https://www.pttweb.cc/bbs/biker/M.1782891325.A.A8D",
       "title": "[公告] 解除水桶處分通知"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/03 08:36",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783038990.A.72F",
+      "title": "[問卦] 數發部怎都在開發一些垃圾App"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/03 05:43",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783028604.A.5BD",
+      "title": "[問卦] 現在是不是引進老頭樂的好時機"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 20:23",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783340344.A.57C",
+      "title": "[問卦] 希望台風去大陸的畜生怎不去死"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 20:13",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783337933.A.3FB",
+      "title": "[問卦] 颱風過境水庫潰堤，廣西變威尼斯"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 18:24",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783333422.A.A17",
+      "title": "[問卦] 朋友是中國人求幫取日本名字"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 18:09",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783332486.A.DD4",
+      "title": "[問卦] 大家上次颱風天停電是什麼時候了？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 18:02",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783331751.A.C1A",
+      "title": "[公告] 合議制新規＆喪事喜辦 提名榮譽板主開始"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 11:48",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783309634.A.E13",
+      "title": "Re: [問卦] 愛爾達氣暈一群中國人舔共仔"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 11:42",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783309308.A.1DC",
+      "title": "[公告] 板規十七條實名檢舉規定草案廢棄"
+    },
+    {
+      "userId": "arelies",
+      "ip": "162.120.248.122",
+      "type": "post",
+      "board": "biker",
+      "dateText": "2026/07/01 16:06",
+      "url": "https://www.pttweb.cc/bbs/biker/M.1782893177.A.844",
+      "title": "[公告] 機車板板規v2.1.0修訂"
+    },
+    {
+      "userId": "arelies",
+      "ip": "162.120.248.122",
+      "type": "post",
+      "board": "biker",
+      "dateText": "2026/07/01 15:56",
+      "url": "https://www.pttweb.cc/bbs/biker/M.1782892570.A.592",
+      "title": "[公告] CharlesCL 水桶兩百七十天"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 57,
+      "evidenceCount": 66,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 57,
+          "evidenceCount": 66,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1028,11 +1127,11 @@
     },
     "162.120.248.122": {
       "ip": "162.120.248.122",
-      "evidenceCount": 2,
+      "evidenceCount": 4,
       "users": [
         {
           "userId": "arelies",
-          "evidenceCount": 2,
+          "evidenceCount": 4,
           "evidence": [
             {
               "userId": "arelies",
@@ -1051,6 +1150,24 @@
               "dateText": "2026/07/01 15:35",
               "url": "https://www.pttweb.cc/bbs/biker/M.1782891325.A.A8D",
               "title": "[公告] 解除水桶處分通知"
+            },
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.122",
+              "type": "post",
+              "board": "biker",
+              "dateText": "2026/07/01 16:06",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782893177.A.844",
+              "title": "[公告] 機車板板規v2.1.0修訂"
+            },
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.122",
+              "type": "post",
+              "board": "biker",
+              "dateText": "2026/07/01 15:56",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782892570.A.592",
+              "title": "[公告] CharlesCL 水桶兩百七十天"
             }
           ]
         }
@@ -1558,11 +1675,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 57,
+      "evidenceCount": 66,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 57,
+          "evidenceCount": 66,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1750,7 +1867,7 @@
     },
     "arelies": {
       "userId": "arelies",
-      "evidenceCount": 31,
+      "evidenceCount": 33,
       "ips": [
         {
           "ip": "162.120.248.81",
@@ -1809,6 +1926,48 @@
               "dateText": "06/05 22:40",
               "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1780670142.A.457",
               "title": "[公告] 本板菜單文 禁推“微星部份主板及電源”"
+            }
+          ]
+        },
+        {
+          "ip": "162.120.248.122",
+          "evidenceCount": 4,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.122",
+              "type": "post",
+              "board": "PC_Shopping",
+              "dateText": "2026/06/24 01:31",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782235890.A.145",
+              "title": "[公告] freeunixer 水桶六十日"
+            },
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.122",
+              "type": "post",
+              "board": "biker",
+              "dateText": "2026/07/01 15:35",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782891325.A.A8D",
+              "title": "[公告] 解除水桶處分通知"
+            },
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.122",
+              "type": "post",
+              "board": "biker",
+              "dateText": "2026/07/01 16:06",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782893177.A.844",
+              "title": "[公告] 機車板板規v2.1.0修訂"
+            },
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.122",
+              "type": "post",
+              "board": "biker",
+              "dateText": "2026/07/01 15:56",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782892570.A.592",
+              "title": "[公告] CharlesCL 水桶兩百七十天"
             }
           ]
         },
@@ -1903,30 +2062,6 @@
               "type": "reply",
               "board": "biker",
               "dateText": "07/02 21:42",
-              "url": "https://www.pttweb.cc/bbs/biker/M.1782891325.A.A8D",
-              "title": "[公告] 解除水桶處分通知"
-            }
-          ]
-        },
-        {
-          "ip": "162.120.248.122",
-          "evidenceCount": 2,
-          "evidence": [
-            {
-              "userId": "arelies",
-              "ip": "162.120.248.122",
-              "type": "post",
-              "board": "PC_Shopping",
-              "dateText": "2026/06/24 01:31",
-              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782235890.A.145",
-              "title": "[公告] freeunixer 水桶六十日"
-            },
-            {
-              "userId": "arelies",
-              "ip": "162.120.248.122",
-              "type": "post",
-              "board": "biker",
-              "dateText": "2026/07/01 15:35",
               "url": "https://www.pttweb.cc/bbs/biker/M.1782891325.A.A8D",
               "title": "[公告] 解除水桶處分通知"
             }
