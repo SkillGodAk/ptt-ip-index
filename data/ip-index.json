@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T20:16:07.728Z",
+  "generatedAt": "2026-07-08T03:45:45.264Z",
   "records": [
     {
       "userId": "a22663564",
@@ -972,16 +972,25 @@
       "dateText": "07/07 09:37",
       "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783387823.A.900",
       "title": "[徵/全國/皆可] 桌上型 DDR4 3200/3600 16G*2"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/04 06:09",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783116556.A.180",
+      "title": "[問卦] 主持人自肥跟河北彩花合照惹眾怒"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 73,
+      "evidenceCount": 74,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 73,
+          "evidenceCount": 74,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1738,11 +1747,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 73,
+      "evidenceCount": 74,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 73,
+          "evidenceCount": 74,
           "evidence": [
             {
               "userId": "a22663564",
