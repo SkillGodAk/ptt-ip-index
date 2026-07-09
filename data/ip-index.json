@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T19:56:27.777Z",
+  "generatedAt": "2026-07-09T04:14:55.466Z",
   "records": [
     {
       "userId": "a22663564",
@@ -990,16 +990,70 @@
       "dateText": "2026/07/04 15:35",
       "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783150533.A.050",
       "title": "[問卦] 寵物展成人展同時間是要玩我啊"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/06 07:25",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783293929.A.411",
+      "title": "[問卦] 食藥署罵翻後公佈下游廠商清單"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "HardwareSale",
+      "dateText": "2026/07/05 19:41",
+      "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783251682.A.46B",
+      "title": "[徵/新北/面交] DDR4 3200 16G"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/04 23:55",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783180503.A.A50",
+      "title": "[問卦] 俄羅斯飛彈90%晶片來自日本"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/07 12:01",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783396866.A.824",
+      "title": "[問卦] 這次颱風假台中穩了吧？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "PC_Shopping",
+      "dateText": "07/07 11:50",
+      "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1783396143.A.83A",
+      "title": "[開箱] 可愛雕妹 Ari 再進化 AORUS ELITE-P ICE"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/07 10:24",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783390963.A.476",
+      "title": "[新聞] 綠營轟吳子嘉不公布高雄民調 謝寒冰推測"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 75,
+      "evidenceCount": 81,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 75,
+          "evidenceCount": 81,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1756,11 +1810,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 75,
+      "evidenceCount": 81,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 75,
+          "evidenceCount": 81,
           "evidence": [
             {
               "userId": "a22663564",
