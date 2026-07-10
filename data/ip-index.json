@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T15:02:32.834Z",
+  "generatedAt": "2026-07-10T19:53:17.819Z",
   "records": [
     {
       "userId": "a22663564",
@@ -1224,16 +1224,43 @@
       "dateText": "07/10 11:46",
       "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783655024.A.A6C",
       "title": "[問卦] 台北這次算是創了颱風假的高度嗎？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/08 08:19",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783469942.A.98C",
+      "title": "[問卦] 把關國民健康是靠業者定期檢驗？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/07 21:28",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783430917.A.9C5",
+      "title": "Re: [新聞] 眾量級反目新發展！家寧秀錄音「頻道已歸"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/10 16:32",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783672076.A.12D",
+      "title": "Re: [問卦] 看到中國被罵就忍不住反駁的人是？"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 100,
+      "evidenceCount": 103,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 100,
+          "evidenceCount": 103,
           "evidence": [
             {
               "userId": "a22663564",
@@ -2011,11 +2038,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 101,
+      "evidenceCount": 104,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 100,
+          "evidenceCount": 103,
           "evidence": [
             {
               "userId": "a22663564",
