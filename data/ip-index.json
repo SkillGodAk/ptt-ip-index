@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T20:05:05.049Z",
+  "generatedAt": "2026-07-10T04:16:17.117Z",
   "records": [
     {
       "userId": "a22663564",
@@ -1062,16 +1062,70 @@
       "dateText": "07/07 12:08",
       "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783397210.A.2F4",
       "title": "[問卦] 人的幻覺比AI嚴重吧？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/07 08:44",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783385058.A.247",
+      "title": "[問卦] 廣西賑災中國只撥1億人民幣"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/06 19:38",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783337933.A.3FB",
+      "title": "[問卦] 颱風過境水庫潰堤，廣西變威尼斯"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/07 21:34",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783431184.A.1C0",
+      "title": "[新聞] 沙拉醬、超商飯糰均中鏢！食藥署公布致"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "HardwareSale",
+      "dateText": "07/07 20:45",
+      "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783428249.A.B95",
+      "title": "[賣/全國/皆可] MSI GTX 1060 6g 顯示卡 會黑屏"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/07 19:58",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783423018.A.CE1",
+      "title": "[問卦] 2018/7/10北北基4點放假 柯P臉書被灌爆"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "27.247.5.220",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/07 16:41",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783413643.A.833",
+      "title": "[問卦] 日本到處慶祝美日友好 台灣只有點燈？"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 83,
+      "evidenceCount": 88,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 83,
+          "evidenceCount": 88,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1823,16 +1877,37 @@
           ]
         }
       ]
+    },
+    "27.247.5.220": {
+      "ip": "27.247.5.220",
+      "evidenceCount": 1,
+      "users": [
+        {
+          "userId": "a22663564",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "a22663564",
+              "ip": "27.247.5.220",
+              "type": "reply",
+              "board": "Gossiping",
+              "dateText": "07/07 16:41",
+              "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783413643.A.833",
+              "title": "[問卦] 日本到處慶祝美日友好 台灣只有點燈？"
+            }
+          ]
+        }
+      ]
     }
   },
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 83,
+      "evidenceCount": 89,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 83,
+          "evidenceCount": 88,
           "evidence": [
             {
               "userId": "a22663564",
@@ -2013,6 +2088,21 @@
               "dateText": "07/03 04:51",
               "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783025425.A.6BE",
               "title": "[問卦] 剛剛有人突然跳電一下嗎"
+            }
+          ]
+        },
+        {
+          "ip": "27.247.5.220",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "a22663564",
+              "ip": "27.247.5.220",
+              "type": "reply",
+              "board": "Gossiping",
+              "dateText": "07/07 16:41",
+              "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783413643.A.833",
+              "title": "[問卦] 日本到處慶祝美日友好 台灣只有點燈？"
             }
           ]
         }
