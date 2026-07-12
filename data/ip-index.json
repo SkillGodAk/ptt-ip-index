@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T08:32:26.959Z",
+  "generatedAt": "2026-07-12T13:57:31.248Z",
   "records": [
     {
       "userId": "a22663564",
@@ -1449,16 +1449,34 @@
       "dateText": "07/11 11:07",
       "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783738889.A.8FC",
       "title": "[問卦] 現在還有料的台灣yter剩誰？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/11 13:22",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783747228.A.195",
+      "title": "[問卦] 你灣灣爽放颱風假，祖國淹水三天沒人救"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "HardwareSale",
+      "dateText": "07/11 11:20",
+      "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783739837.A.FC6",
+      "title": "[賣/雙北/皆可]TOSHIBA 3.5吋 6TB硬碟"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 125,
+      "evidenceCount": 127,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 125,
+          "evidenceCount": 127,
           "evidence": [
             {
               "userId": "a22663564",
@@ -2236,11 +2254,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 126,
+      "evidenceCount": 128,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 125,
+          "evidenceCount": 127,
           "evidence": [
             {
               "userId": "a22663564",
