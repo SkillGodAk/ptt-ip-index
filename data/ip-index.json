@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T19:32:47.166Z",
+  "generatedAt": "2026-07-12T03:59:11.271Z",
   "records": [
     {
       "userId": "a22663564",
@@ -1386,16 +1386,61 @@
       "dateText": "07/10 18:02",
       "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783677640.A.C0F",
       "title": "[問卦] 板上真的有人架本地ai主機而賺到錢的嗎"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/10 10:48",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783651725.A.1AE",
+      "title": "[問卦] 西門町搭帳拍成人片不起訴偵結"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/10 09:49",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783648188.A.9B3",
+      "title": "[問卦] 為什麼沒人罵馬祖颱風假"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/11 10:59",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783738723.A.1E4",
+      "title": "Re: [問卦] 為何中國食安問題唯一死刑，台灣沒事？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "HardwareSale",
+      "dateText": "07/10 21:33",
+      "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783687934.A.814",
+      "title": "[賣/新竹/皆可] DeskMini X600 8500G/32G/1TB"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/11 10:22",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783736529.A.4A3",
+      "title": "[問卦] 支持中聯總經理余凌沖死刑的請+1"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 118,
+      "evidenceCount": 123,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 118,
+          "evidenceCount": 123,
           "evidence": [
             {
               "userId": "a22663564",
@@ -2173,11 +2218,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 119,
+      "evidenceCount": 124,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 118,
+          "evidenceCount": 123,
           "evidence": [
             {
               "userId": "a22663564",
