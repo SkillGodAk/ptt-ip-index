@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T03:59:11.271Z",
+  "generatedAt": "2026-07-12T08:32:26.959Z",
   "records": [
     {
       "userId": "a22663564",
@@ -1431,16 +1431,34 @@
       "dateText": "07/11 10:22",
       "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783736529.A.4A3",
       "title": "[問卦] 支持中聯總經理余凌沖死刑的請+1"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/10 17:19",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783675187.A.B2F",
+      "title": "[問卦] 巴威颱風順利整合"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/11 11:07",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783738889.A.8FC",
+      "title": "[問卦] 現在還有料的台灣yter剩誰？"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 123,
+      "evidenceCount": 125,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 123,
+          "evidenceCount": 125,
           "evidence": [
             {
               "userId": "a22663564",
@@ -2218,11 +2236,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 124,
+      "evidenceCount": 126,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 123,
+          "evidenceCount": 125,
           "evidence": [
             {
               "userId": "a22663564",
