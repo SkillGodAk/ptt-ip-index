@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T13:57:31.248Z",
+  "generatedAt": "2026-07-12T19:32:23.162Z",
   "records": [
     {
       "userId": "a22663564",
@@ -1467,16 +1467,52 @@
       "dateText": "07/11 11:20",
       "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783739837.A.FC6",
       "title": "[賣/雙北/皆可]TOSHIBA 3.5吋 6TB硬碟"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/10 23:13",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783696403.A.3DC",
+      "title": "Re: [新聞] 致癌沙拉油再增1批！食藥署勒令中聯停工"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/11 18:24",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783765416.A.51A",
+      "title": "[問卦] 颱風天跑去宜蘭礁溪幹嘛？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/11 17:45",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783763062.A.729",
+      "title": "[問卦] 逢中必反的都是些什麼人？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/11 17:43",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783761350.A.EB9",
+      "title": "[新聞] 二伯品牌爆抄襲爭議！又被抓「10款撞設"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 127,
+      "evidenceCount": 131,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 127,
+          "evidenceCount": 131,
           "evidence": [
             {
               "userId": "a22663564",
@@ -2254,11 +2290,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 128,
+      "evidenceCount": 132,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 127,
+          "evidenceCount": 131,
           "evidence": [
             {
               "userId": "a22663564",
