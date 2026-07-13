@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T04:02:26.477Z",
+  "generatedAt": "2026-07-13T09:48:51.709Z",
   "records": [
     {
       "userId": "a22663564",
@@ -1503,16 +1503,97 @@
       "dateText": "07/11 17:43",
       "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783761350.A.EB9",
       "title": "[新聞] 二伯品牌爆抄襲爭議！又被抓「10款撞設"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/11 11:56",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783742173.A.97C",
+      "title": "[問卦] 台北車站驚現抓寶可夢人潮"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/11 10:43",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783737824.A.01A",
+      "title": "Re: [新聞] 中聯總經理2000萬交保！親友急拿錢贖身"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/11 09:40",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783734032.A.98C",
+      "title": "[問卦] 阿嘎夫妻是不是標準的口嫌體正直"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "C_Chat",
+      "dateText": "2026/07/11 00:21",
+      "url": "https://www.pttweb.cc/bbs/C_Chat/M.1783700504.A.345",
+      "title": "[閒聊] 落第賢者人物站位是合理的嘛"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/12 16:50",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783845978.A.922",
+      "title": "[問卦] 高雄好市多賣中國製太空艙？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/12 16:42",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783845692.A.305",
+      "title": "[問卦] 要怎麼告白財才不會讓女生感到噁心"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "HardwareSale",
+      "dateText": "07/12 16:09",
+      "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783843564.A.A4B",
+      "title": "[賣/新竹/皆可]美光crucial筆記型DRR4-3200 16G"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/12 10:11",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783822289.A.8BC",
+      "title": "[新聞] 中國海警船奔澎湖對峙日艦 台海「追逐"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "HardwareSale",
+      "dateText": "07/12 10:07",
+      "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783781924.A.52E",
+      "title": "[賣/高屏/面交] 美光DDR4 32G"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 131,
+      "evidenceCount": 140,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 131,
+          "evidenceCount": 140,
           "evidence": [
             {
               "userId": "a22663564",
@@ -2290,11 +2371,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 132,
+      "evidenceCount": 141,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 131,
+          "evidenceCount": 140,
           "evidence": [
             {
               "userId": "a22663564",
