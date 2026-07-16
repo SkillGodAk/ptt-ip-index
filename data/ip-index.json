@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T14:24:37.966Z",
+  "generatedAt": "2026-07-16T19:34:54.213Z",
   "records": [
     {
       "userId": "a22663564",
@@ -1593,6 +1593,15 @@
       "dateText": "07/02 21:52",
       "url": "https://www.pttweb.cc/bbs/biker/M.1782985244.A.F33",
       "title": "[公告] 網軍/業代 用詞臨時板規 260702"
+    },
+    {
+      "userId": "arelies",
+      "ip": "162.120.248.117",
+      "type": "post",
+      "board": "biker",
+      "dateText": "2026/07/02 17:40",
+      "url": "https://www.pttweb.cc/bbs/biker/M.1782985244.A.F33",
+      "title": "[公告] 網軍/業代 用詞臨時板規 260702"
     }
   ],
   "byIp": {
@@ -2384,6 +2393,27 @@
           ]
         }
       ]
+    },
+    "162.120.248.117": {
+      "ip": "162.120.248.117",
+      "evidenceCount": 1,
+      "users": [
+        {
+          "userId": "arelies",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.117",
+              "type": "post",
+              "board": "biker",
+              "dateText": "2026/07/02 17:40",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782985244.A.F33",
+              "title": "[公告] 網軍/業代 用詞臨時板規 260702"
+            }
+          ]
+        }
+      ]
     }
   },
   "byUser": {
@@ -2596,7 +2626,7 @@
     },
     "arelies": {
       "userId": "arelies",
-      "evidenceCount": 34,
+      "evidenceCount": 35,
       "ips": [
         {
           "ip": "162.120.248.81",
@@ -2916,6 +2946,21 @@
               "dateText": "2026/06/30 16:29",
               "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782808145.A.5DE",
               "title": "Re: [心得] 原價屋5800X3D超賣"
+            }
+          ]
+        },
+        {
+          "ip": "162.120.248.117",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.117",
+              "type": "post",
+              "board": "biker",
+              "dateText": "2026/07/02 17:40",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782985244.A.F33",
+              "title": "[公告] 網軍/業代 用詞臨時板規 260702"
             }
           ]
         },
