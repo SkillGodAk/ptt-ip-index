@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T08:35:36.918Z",
+  "generatedAt": "2026-07-16T14:24:37.966Z",
   "records": [
     {
       "userId": "a22663564",
@@ -1584,6 +1584,15 @@
       "dateText": "07/12 10:07",
       "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783781924.A.52E",
       "title": "[賣/高屏/面交] 美光DDR4 32G"
+    },
+    {
+      "userId": "arelies",
+      "ip": "162.120.248.120",
+      "type": "reply",
+      "board": "biker",
+      "dateText": "07/02 21:52",
+      "url": "https://www.pttweb.cc/bbs/biker/M.1782985244.A.F33",
+      "title": "[公告] 網軍/業代 用詞臨時板規 260702"
     }
   ],
   "byIp": {
@@ -2318,11 +2327,11 @@
     },
     "162.120.248.120": {
       "ip": "162.120.248.120",
-      "evidenceCount": 2,
+      "evidenceCount": 3,
       "users": [
         {
           "userId": "arelies",
-          "evidenceCount": 2,
+          "evidenceCount": 3,
           "evidence": [
             {
               "userId": "arelies",
@@ -2341,6 +2350,15 @@
               "dateText": "07/02 21:42",
               "url": "https://www.pttweb.cc/bbs/biker/M.1782891325.A.A8D",
               "title": "[公告] 解除水桶處分通知"
+            },
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.120",
+              "type": "reply",
+              "board": "biker",
+              "dateText": "07/02 21:52",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782985244.A.F33",
+              "title": "[公告] 網軍/業代 用詞臨時板規 260702"
             }
           ]
         }
@@ -2578,7 +2596,7 @@
     },
     "arelies": {
       "userId": "arelies",
-      "evidenceCount": 33,
+      "evidenceCount": 34,
       "ips": [
         {
           "ip": "162.120.248.81",
@@ -2683,6 +2701,39 @@
           ]
         },
         {
+          "ip": "162.120.248.120",
+          "evidenceCount": 3,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.120",
+              "type": "reply",
+              "board": "biker",
+              "dateText": "07/02 21:56",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782889302.A.623",
+              "title": "Re: [閒聊] 怎麼看K1特仕版125／150同價位？"
+            },
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.120",
+              "type": "reply",
+              "board": "biker",
+              "dateText": "07/02 21:42",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782891325.A.A8D",
+              "title": "[公告] 解除水桶處分通知"
+            },
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.120",
+              "type": "reply",
+              "board": "biker",
+              "dateText": "07/02 21:52",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782985244.A.F33",
+              "title": "[公告] 網軍/業代 用詞臨時板規 260702"
+            }
+          ]
+        },
+        {
           "ip": "136.23.50.107",
           "evidenceCount": 2,
           "evidence": [
@@ -2751,30 +2802,6 @@
               "dateText": "06/29 21:52",
               "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782717951.A.C74",
               "title": "[請益] 3070去世了升級請益"
-            }
-          ]
-        },
-        {
-          "ip": "162.120.248.120",
-          "evidenceCount": 2,
-          "evidence": [
-            {
-              "userId": "arelies",
-              "ip": "162.120.248.120",
-              "type": "reply",
-              "board": "biker",
-              "dateText": "07/02 21:56",
-              "url": "https://www.pttweb.cc/bbs/biker/M.1782889302.A.623",
-              "title": "Re: [閒聊] 怎麼看K1特仕版125／150同價位？"
-            },
-            {
-              "userId": "arelies",
-              "ip": "162.120.248.120",
-              "type": "reply",
-              "board": "biker",
-              "dateText": "07/02 21:42",
-              "url": "https://www.pttweb.cc/bbs/biker/M.1782891325.A.A8D",
-              "title": "[公告] 解除水桶處分通知"
             }
           ]
         },
