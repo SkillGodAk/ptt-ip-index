@@ -1,8 +1,8 @@
 {
-  "version": "20260717-5",
-  "name": "多功能影片處理工具20260717-5",
-  "filename": "多功能影片處理工具20260717-5.exe",
-  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260717-5/20260717-5.exe",
-  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260717-5",
-  "notes": "修正音軌字幕處理未執行與日誌不顯示；背景工作改由主介面安全更新；補齊完整 Tkinter 封裝並通過真實影片處理與 35 項測試。"
+  "version": "20260717",
+  "name": "多功能影片處理工具20260717",
+  "filename": "多功能影片處理工具.exe",
+  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260717/multi-function-video-tool.exe",
+  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260717",
+  "notes": "修正音軌字幕處理未執行與日誌不顯示；背景工作改由主介面安全更新；補齊完整 Tkinter 封裝並通過真實影片處理與 36 項測試。"
 }
