@@ -1,8 +1,8 @@
 {
-  "version": "20260717-3",
-  "name": "多功能影片處理工具20260717-3",
-  "filename": "多功能影片處理工具20260717-3.exe",
-  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260717-3/20260717-3.exe",
-  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260717-3",
-  "notes": "修正自動更新完成後重啟時找不到 python312.dll 的錯誤；更新下載會顯示即時進度；保留手動檢查更新、Season 02 等季數自動判斷與重命名報告功能。"
+  "version": "20260717-4",
+  "name": "多功能影片處理工具20260717-4",
+  "filename": "多功能影片處理工具20260717-4.exe",
+  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260717-4/20260717-4.exe",
+  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260717-4",
+  "notes": "修正 20260717-3 打包缺少 tkinter 導致無法啟動；保留自動更新重啟修正與即時下載進度；請直接安裝此版本。"
 }

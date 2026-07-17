@@ -4,17 +4,19 @@
 
 ## 最新版本
 
-- 版本：`20260717-3`
-- 檔案：`多功能影片處理工具20260717-3.exe`
-- Release：[v20260717-3](https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260717-3)
-- 下載：[20260717-3.exe](https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260717-3/20260717-3.exe)
+- 版本：`20260717-4`
+- 檔案：`多功能影片處理工具20260717-4.exe`
+- Release：[v20260717-4](https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260717-4)
+- 下載：[20260717-4.exe](https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260717-4/20260717-4.exe)
 
-## 20260717-3 更新內容
+## 20260717-4 更新內容
 
-- 修正自動更新完成後重新啟動時，找不到 `python312.dll` 的錯誤。
-- 自我更新重啟時會建立新的 PyInstaller 暫存環境，不再沿用已被清除的舊 `_MEI` 目錄。
-- 更新下載視窗會顯示已下載容量與即時進度。
-- 保留手動檢查更新、`Season 02` 等季數自動判斷、略過原因統計與重命名報告功能。
+- 修正 `20260717-3` 打包缺少 `tkinter`，造成程式啟動失敗。
+- Tcl/Tk 路徑改由打包規格自動設定，避免之後再次漏包。
+- 保留自動更新重啟修正，不再沿用已清除的舊 `_MEI` 目錄。
+- 保留更新下載即時進度、手動檢查更新、季數自動判斷與重命名報告。
+
+> `20260717-3` 已停用，請直接下載 `20260717-4`。
 
 ## 自動更新資料
 
