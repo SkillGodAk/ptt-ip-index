@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T19:34:54.213Z",
+  "generatedAt": "2026-07-17T03:38:56.335Z",
   "records": [
     {
       "userId": "a22663564",
@@ -1602,6 +1602,15 @@
       "dateText": "2026/07/02 17:40",
       "url": "https://www.pttweb.cc/bbs/biker/M.1782985244.A.F33",
       "title": "[公告] 網軍/業代 用詞臨時板規 260702"
+    },
+    {
+      "userId": "arelies",
+      "ip": "162.120.248.120",
+      "type": "reply",
+      "board": "biker",
+      "dateText": "07/03 00:41",
+      "url": "https://www.pttweb.cc/bbs/biker/M.1783009546.A.585",
+      "title": "[公告] 關於網軍及異常帳號 原判定依據"
     }
   ],
   "byIp": {
@@ -2336,11 +2345,11 @@
     },
     "162.120.248.120": {
       "ip": "162.120.248.120",
-      "evidenceCount": 3,
+      "evidenceCount": 4,
       "users": [
         {
           "userId": "arelies",
-          "evidenceCount": 3,
+          "evidenceCount": 4,
           "evidence": [
             {
               "userId": "arelies",
@@ -2368,6 +2377,15 @@
               "dateText": "07/02 21:52",
               "url": "https://www.pttweb.cc/bbs/biker/M.1782985244.A.F33",
               "title": "[公告] 網軍/業代 用詞臨時板規 260702"
+            },
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.120",
+              "type": "reply",
+              "board": "biker",
+              "dateText": "07/03 00:41",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1783009546.A.585",
+              "title": "[公告] 關於網軍及異常帳號 原判定依據"
             }
           ]
         }
@@ -2626,7 +2644,7 @@
     },
     "arelies": {
       "userId": "arelies",
-      "evidenceCount": 35,
+      "evidenceCount": 36,
       "ips": [
         {
           "ip": "162.120.248.81",
@@ -2689,6 +2707,48 @@
           ]
         },
         {
+          "ip": "162.120.248.120",
+          "evidenceCount": 4,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.120",
+              "type": "reply",
+              "board": "biker",
+              "dateText": "07/02 21:56",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782889302.A.623",
+              "title": "Re: [閒聊] 怎麼看K1特仕版125／150同價位？"
+            },
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.120",
+              "type": "reply",
+              "board": "biker",
+              "dateText": "07/02 21:42",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782891325.A.A8D",
+              "title": "[公告] 解除水桶處分通知"
+            },
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.120",
+              "type": "reply",
+              "board": "biker",
+              "dateText": "07/02 21:52",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1782985244.A.F33",
+              "title": "[公告] 網軍/業代 用詞臨時板規 260702"
+            },
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.120",
+              "type": "reply",
+              "board": "biker",
+              "dateText": "07/03 00:41",
+              "url": "https://www.pttweb.cc/bbs/biker/M.1783009546.A.585",
+              "title": "[公告] 關於網軍及異常帳號 原判定依據"
+            }
+          ]
+        },
+        {
           "ip": "162.120.248.122",
           "evidenceCount": 4,
           "evidence": [
@@ -2727,39 +2787,6 @@
               "dateText": "2026/07/01 15:56",
               "url": "https://www.pttweb.cc/bbs/biker/M.1782892570.A.592",
               "title": "[公告] CharlesCL 水桶兩百七十天"
-            }
-          ]
-        },
-        {
-          "ip": "162.120.248.120",
-          "evidenceCount": 3,
-          "evidence": [
-            {
-              "userId": "arelies",
-              "ip": "162.120.248.120",
-              "type": "reply",
-              "board": "biker",
-              "dateText": "07/02 21:56",
-              "url": "https://www.pttweb.cc/bbs/biker/M.1782889302.A.623",
-              "title": "Re: [閒聊] 怎麼看K1特仕版125／150同價位？"
-            },
-            {
-              "userId": "arelies",
-              "ip": "162.120.248.120",
-              "type": "reply",
-              "board": "biker",
-              "dateText": "07/02 21:42",
-              "url": "https://www.pttweb.cc/bbs/biker/M.1782891325.A.A8D",
-              "title": "[公告] 解除水桶處分通知"
-            },
-            {
-              "userId": "arelies",
-              "ip": "162.120.248.120",
-              "type": "reply",
-              "board": "biker",
-              "dateText": "07/02 21:52",
-              "url": "https://www.pttweb.cc/bbs/biker/M.1782985244.A.F33",
-              "title": "[公告] 網軍/業代 用詞臨時板規 260702"
             }
           ]
         },
