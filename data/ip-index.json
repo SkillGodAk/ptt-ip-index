@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T03:38:56.335Z",
+  "generatedAt": "2026-07-17T08:29:15.959Z",
   "records": [
     {
       "userId": "a22663564",
@@ -1611,16 +1611,25 @@
       "dateText": "07/03 00:41",
       "url": "https://www.pttweb.cc/bbs/biker/M.1783009546.A.585",
       "title": "[公告] 關於網軍及異常帳號 原判定依據"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/11 15:06",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783753616.A.D92",
+      "title": "Re: [問卦] 笑死，上海杭州怕颱風正在大撤離！！！"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 140,
+      "evidenceCount": 141,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 140,
+          "evidenceCount": 141,
           "evidence": [
             {
               "userId": "a22663564",
@@ -2437,11 +2446,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 141,
+      "evidenceCount": 142,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 140,
+          "evidenceCount": 141,
           "evidence": [
             {
               "userId": "a22663564",
