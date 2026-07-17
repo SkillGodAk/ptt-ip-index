@@ -1,8 +1,8 @@
 {
-  "version": "20260717-2",
-  "name": "多功能影片處理工具20260717-2",
-  "filename": "多功能影片處理工具20260717-2.exe",
-  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260717-2/20260717-2.exe",
-  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260717-2",
-  "notes": "新增手動檢查更新、下載進度視窗、關於視窗；重命名可從 Season 02、S2、第2季、純數字資料夾自動判斷季數；預覽會顯示略過原因統計；重命名完成後會產生 rename_report_日期.txt；修正 20260717-2 這類同日小版本更新判斷；更新檢查新增 GitHub API 備援，避免 raw 快取延遲。"
+  "version": "20260717-3",
+  "name": "多功能影片處理工具20260717-3",
+  "filename": "多功能影片處理工具20260717-3.exe",
+  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260717-3/20260717-3.exe",
+  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260717-3",
+  "notes": "修正自動更新完成後重啟時找不到 python312.dll 的錯誤；更新下載會顯示即時進度；保留手動檢查更新、Season 02 等季數自動判斷與重命名報告功能。"
 }

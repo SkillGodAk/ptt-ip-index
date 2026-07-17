@@ -1,26 +1,22 @@
 # 多功能影片處理工具
 
-這個 repository 用來發布 SkillGodAK 的 Windows 版多功能影片處理工具 EXE，並提供自動更新用的 `version.json`。
+這個 repository 提供 SkillGodAK 的 Windows 多功能影片處理工具公開 EXE，以及程式自動更新使用的 `version.json`。
 
 ## 最新版本
 
-- 版本：`20260717-2`
-- 檔案：`多功能影片處理工具20260717-2.exe`
-- Release：[v20260717-2](https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260717-2)
-- 下載：[20260717-2.exe](https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260717-2/20260717-2.exe)
+- 版本：`20260717-3`
+- 檔案：`多功能影片處理工具20260717-3.exe`
+- Release：[v20260717-3](https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260717-3)
+- 下載：[20260717-3.exe](https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260717-3/20260717-3.exe)
 
-## 20260717-2 更新內容
+## 20260717-3 更新內容
 
-- 新增手動「檢查更新」按鈕。
-- 新增下載更新進度視窗。
-- 新增「關於」視窗，可查看版本與發布頁。
-- 重命名資料夾季數自動判斷支援 `Season 02`、`S2`、`第2季`、純數字資料夾。
-- 重命名預覽新增略過原因統計。
-- 重命名完成後會在資料夾內產生 `rename_report_日期.txt` 報告。
-- 修正 `20260717-2` 這類同日小版本更新判斷，避免新版抓不到。
-- 更新檢查新增 GitHub API 備援，避免 `raw.githubusercontent.com` 快取延遲造成新版抓不到。
+- 修正自動更新完成後重新啟動時，找不到 `python312.dll` 的錯誤。
+- 自我更新重啟時會建立新的 PyInstaller 暫存環境，不再沿用已被清除的舊 `_MEI` 目錄。
+- 更新下載視窗會顯示已下載容量與即時進度。
+- 保留手動檢查更新、`Season 02` 等季數自動判斷、略過原因統計與重命名報告功能。
 
-## 自動更新資訊
+## 自動更新資料
 
 程式會讀取：
 
@@ -28,4 +24,4 @@
 https://raw.githubusercontent.com/SkillGodAk/multi-function-video-tool/master/version.json
 ```
 
-當 `version` 高於目前程式版本時，會提示使用者下載並覆蓋更新。
+當 `version` 高於目前版本時，程式會提示是否下載並安裝更新。
