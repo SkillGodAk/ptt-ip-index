@@ -5,5 +5,5 @@
   "sha256": "F3047D860C41A0A0FB08413DDF18CE77E99AB77242460F831C7B9D0DE137DDA9",
   "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260718/multi-function-video-tool.exe",
   "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260718",
-  "notes": "修正覆蓋原影片時可能遺失檔案的問題，改為成功後才安全取代原檔；修正停止轉換後的狀態顯示並清除未完成輸出；新增更新檔 SHA256 驗證、無效下載清理與覆蓋重試上限。已通過 43 項自動測試及真實 MKV、停止轉換與更新下載驗證。"
+  "notes": "修正覆蓋原影片時可能遺失檔案的問題，改為成功後才安全取代原檔；修正停止轉換後的狀態顯示並清除未完成輸出；新增更新檔完整性驗證、無效下載清理與覆蓋重試上限。"
 }
