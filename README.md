@@ -4,11 +4,11 @@ Windows 影片、字幕與檔案整理工具，將常用處理功能集中在同
 
 [下載最新正式版](https://github.com/SkillGodAk/multi-function-video-tool/releases/latest) ｜ [查看版本更新內容](https://github.com/SkillGodAk/multi-function-video-tool/releases)
 
-![多功能影片處理工具主畫面](assets/program-main.png)
-
-## 既有功能
+## 功能介紹
 
 ### 字幕處理
+
+![字幕處理分頁](assets/subtitle-processing.png)
 
 - 簡體中文與繁體中文互相轉換。
 - ASS、SSA、SUB 轉換為 SRT，並清理字幕樣式。
@@ -17,6 +17,8 @@ Windows 影片、字幕與檔案整理工具，將常用處理功能集中在同
 
 ### 智能重新命名
 
+![智能重新命名分頁](assets/smart-renaming.png)
+
 - 自動辨識影片與字幕的季數、集數。
 - 統一輸出為 `SxxExx` 命名格式。
 - 支援 `v2`、`repack` 等修正版標記判斷。
@@ -24,11 +26,15 @@ Windows 影片、字幕與檔案整理工具，將常用處理功能集中在同
 
 ### 字幕時間軸調整
 
-- 批次提前或延後 SRT、ASS、SSA 字幕時間。
+![字幕時間軸調整分頁](assets/timeline-adjustment.png)
+
+- 批次提前或延後 SRT、ASS、SSA、VTT 字幕時間。
 - 支援影片預覽、逐條校對與區段調整。
 - 可直接覆蓋、另存新檔或輸出到指定資料夾。
 
 ### 音軌與字幕管理
+
+![音軌與字幕管理分頁](assets/track-management.png)
 
 - 選擇要保留或移除的音軌與內嵌字幕。
 - 設定預設音軌與預設字幕。
@@ -37,13 +43,13 @@ Windows 影片、字幕與檔案整理工具，將常用處理功能集中在同
 
 ### 影片格式轉換
 
+![影片格式轉換分頁](assets/video-conversion.png)
+
 - 支援常見影片、音訊格式與多種編碼器。
 - 整合 FFmpeg 與 FFprobe，不需另外安裝。
 - 支援硬體加速、輸出品質與音訊參數設定。
 - 提供批次轉換、進度顯示與停止功能。
 
-## 下載與更新
+## 下載
 
 請從 [GitHub Releases](https://github.com/SkillGodAk/multi-function-video-tool/releases) 下載最新版 `多功能影片處理工具.exe`。
-
-程式啟動時會自動檢查新版本；每個版本的新增功能與修正內容只記錄在 Releases。
