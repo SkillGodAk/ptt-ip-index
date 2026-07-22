@@ -2,8 +2,8 @@
   "version": "20260722",
   "name": "多功能影片處理工具20260722",
   "filename": "多功能影片處理工具.exe",
-  "sha256": "B4D00DC7F690380E7ADA764CBA07AC9E130E4D47AB959A7EABEEB14988A67BC7",
+  "sha256": "6F4E0D220D6370B998379D44BA7437E75527B85A8F457054C7A0C8425304DE4F",
   "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260722/multi-function-video-tool.exe",
   "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260722",
-  "notes": "修正部分 AV1 影片移除音軌或字幕後影像消失、輸出只剩數十 MB 的問題；針對 AV1 重建畫面邊界並保留未標記關鍵影格的影像資料；覆蓋原檔前新增影像軌、編碼與資料完整性驗證，異常時保留原始影片。"
+  "notes": "修正 AV1 MKV 移除音軌或字幕後拖曳進度條可能卡住或使播放器沒有回應；MKV 處理改用 MKVToolNix 並保留定位索引、字幕字型與章節；修正自動更新 WinError 740 與背景等待失效問題。"
 }
